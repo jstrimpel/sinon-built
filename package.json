@@ -1,0 +1,19 @@
+{
+  "name": "sinon-built",
+  "version": "1.9.1",
+  "description": "built version on sinon.js for inclusion in projects that run sinon in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jstrimpel/sinon-built.git"
+  },
+  "author": "Jason Strimpel <jstrimpel@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/jstrimpel/sinon-built/issues"
+  },
+  "homepage": "https://github.com/jstrimpel/sinon-built"
+}
